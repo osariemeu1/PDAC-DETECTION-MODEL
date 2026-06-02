@@ -1,2 +1,2 @@
-# PDAC-DETECTION-MODEL
-An AI model for detecting Benign, early PDAC and Late PDAC
+# PancreaDx
+A trained model to detect the presence of Pancreatic Cancer Disease
